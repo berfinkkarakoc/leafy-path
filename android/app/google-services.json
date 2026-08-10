@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1064940601840",
+    "project_id": "leafypath-ac434",
+    "storage_bucket": "leafypath-ac434.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064940601840:android:7f4caef280045d741f1d35",
+        "android_client_info": {
+          "package_name": "com.example.leafy_path"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR0-lgrW-Sm5syLBvkKF2JgF_3LBRnGww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
